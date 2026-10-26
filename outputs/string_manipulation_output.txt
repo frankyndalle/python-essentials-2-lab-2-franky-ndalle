@@ -1,0 +1,5 @@
+Enter a sentence: Hello Python World
+Uppercase: HELLO PYTHON WORLD
+Reversed: dlroW nohtyP olleH
+Vowel Count: 4
+Spaces Replaced: Hello-Python-World

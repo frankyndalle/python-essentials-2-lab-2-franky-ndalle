@@ -1,0 +1,69 @@
+
+List Manager
+(a) Add a number
+(b) Remove a number
+(c) Display the list
+(d) Quit
+Choose an option: a
+Enter an integer to add: 10
+Number added successfully.
+
+List Manager
+(a) Add a number
+(b) Remove a number
+(c) Display the list
+(d) Quit
+Choose an option: a
+Enter an integer to add: 25
+Number added successfully.
+
+List Manager
+(a) Add a number
+(b) Remove a number
+(c) Display the list
+(d) Quit
+Choose an option: c
+Current list: [10, 25]
+
+List Manager
+(a) Add a number
+(b) Remove a number
+(c) Display the list
+(d) Quit
+Choose an option: b
+Enter the index to remove: 0
+Removed number: 10
+
+List Manager
+(a) Add a number
+(b) Remove a number
+(c) Display the list
+(d) Quit
+Choose an option: c
+Current list: [25]
+
+List Manager
+(a) Add a number
+(b) Remove a number
+(c) Display the list
+(d) Quit
+Choose an option: b
+Enter the index to remove: abc
+Error: Please enter a valid integer index.
+
+List Manager
+(a) Add a number
+(b) Remove a number
+(c) Display the list
+(d) Quit
+Choose an option: b
+Enter the index to remove: 9
+Error: Invalid index. No number was removed.
+
+List Manager
+(a) Add a number
+(b) Remove a number
+(c) Display the list
+(d) Quit
+Choose an option: d
+Goodbye!

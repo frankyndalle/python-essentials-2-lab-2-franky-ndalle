@@ -1,0 +1,6 @@
+
+Enter your age: 25
+Age accepted.
+
+Enter your age: 130
+Error: Age must be between 0 and 120 inclusive.
